@@ -1,0 +1,3 @@
+In this lab, I had the most difficulty recognizing when to create pointers and which types they were. After receiving help during lab, I was able to fix this problem using gdb.
+
+However, because of this hurdle, I was unable to complete some functions. This included ReverseImageList, FastImageList, CropImageList, Watermark, Spotlight, and Zoom. I was also unable to finish checking with Valgrind.
